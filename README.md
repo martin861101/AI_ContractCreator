@@ -60,7 +60,6 @@ TAVILY_API_KEY=your_tavily_api_key
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-> 🔐 Do **not** commit your `.env` file to version control.
 
 ---
 
@@ -94,6 +93,7 @@ The app also attempts to install these automatically if not found.
 
 - **Tavily API** – for legal document search and extraction  
 - **Gemini (Google Generative AI)** – for HR policy document generation
+-Use any AI model of your choice
 
 ---
 
@@ -126,6 +126,7 @@ You can download the policy as:
 
 - 📄 Plain text (`.txt`)  
 - 📝 Markdown (`.md`)
+- 📃 PDF Document ('.pdf')
 
 ---
 
@@ -140,7 +141,9 @@ You can download the policy as:
 ## 🙋‍♂️ Author & License
 
 **Author:** Martin Schoeman
+
 **License:** Open Source  
+
 **Contributions:** PRs and issues welcome!
 
 ---
