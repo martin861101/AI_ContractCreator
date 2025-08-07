@@ -5,6 +5,10 @@ This tool uses **Streamlit**, **Google Gemini**, **Tavily Search API**, and **Se
 
 ---
 
+![Screenshot](preview.jpeg)
+
+---
+
 ## 🚀 Features
 
 - ✅ AI-generated HR policies tailored to a specific country or region  
